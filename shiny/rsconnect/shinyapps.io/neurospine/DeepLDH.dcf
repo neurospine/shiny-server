@@ -1,0 +1,13 @@
+name: DeepLDH
+title: DeepLDH
+username:
+account: neurospine
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 342835
+bundleId: 1374964
+url: https://neurospine.shinyapps.io/DeepLDH/
+when: 1526394688.05395
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData

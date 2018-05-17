@@ -1,0 +1,12 @@
+name: shiny
+title: shiny
+username:
+account: neurospine
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 342834
+bundleId: 1373464
+url: https://neurospine.shinyapps.io/shiny/
+when: 1526323736.80606
+asMultiple: FALSE
+asStatic: FALSE

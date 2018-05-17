@@ -1,0 +1,10 @@
+name: Applet
+title:
+username:
+account: neurospine
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 344844
+bundleId: 1379116
+url: https://neurospine.shinyapps.io/Applet/
+when: 1526578688.32358
